@@ -6,7 +6,7 @@ public class HelloWorld {
 		
 		what= what + "!";
 		what = what + "?";
-		System.out.println(what + "\nSecondLine");
+		System.out.println(what + "\n2ndLine");
 	}
 
 }
